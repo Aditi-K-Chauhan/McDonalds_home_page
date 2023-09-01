@@ -1,0 +1,87 @@
+.nav{
+    padding: 1px;
+    margin: 5px;
+    background-color: #DA291C;
+    display: flex;
+    
+}
+
+.flex_item{
+    padding: 5px;
+    margin: auto 35px;
+   
+    
+}
+
+a{
+    color: #FFC72C;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+.main{
+    background-image: url("https://static.dezeen.com/uploads/2021/02/mcdonalds-playful-packaging-pearlfisher-design__dezeen_2364_col_5.jpg");
+    height: 700px;
+    background-size: cover ;
+    text-align: center;
+    position: relative;
+    top: 80%;
+    
+}
+.meal{
+    font-size: 60px;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    color: #FFC72C;
+    font-family: 'Mogra', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Satisfy', cursive;
+}
+.com{
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    color: wheat;
+    font-family: 'Mogra', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Satisfy', cursive;
+}
+
+.btn{
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 350px;
+    border-radius: 21px;
+    background-color: #FFC72C;
+}
+
+.flex-item{
+    width: 300px;
+    background-color: brown;
+    text-align: center;
+    padding: 8px;
+    margin: 12px;
+    border-radius: 10px;
+}
+.menu{
+   display: flex;
+   justify-content: center;
+   background-color: #FFC72C;
+}
+
+body{
+    background-color: #FFC72C;
+}
+
+.footer{
+    text-align: center;
+    padding: 15px;
+    background-color: #DA291C;
+    color: #FFC72C;
+}
